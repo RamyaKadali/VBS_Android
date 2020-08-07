@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3569a200-0741-4812-acf6-30f1a341664e"
+mode="Mobile">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="Android_VBS">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="0006b75f-360a-45d3-8bdc-f7b0fbea02b1"
+	name="Android_VBSRepository"
+	relativepath="Android_VBSRepository.rxrep">
+		<codegen
+		classname="Android_VBSRepository"
+		namespace="Android_VBS">
+		</codegen>
+		<rootfolder
+		id="4f3b557c-86f9-4636-bbb1-abef6ac685f4"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
