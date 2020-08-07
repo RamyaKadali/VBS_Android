@@ -27,7 +27,7 @@ mode="Mobile">
 	<recorditems>
 		<runmobileapprecorditem
 		application="com.vodafone.viewer"
-		devicename="USB-8BFY0YN86"
+		devicename="Pixel 3XL"
 		duration="3500ms"
 		enabled="True"
 		optional="False"

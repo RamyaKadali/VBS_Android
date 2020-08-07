@@ -79,8 +79,8 @@ namespace Android_VBS
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Application", "Run mobile app 'com.vodafone.viewer' on device 'USB-8BFY0YN86'.", new RecordItemIndex(0));
-            Host.Local.RunMobileApp("USB-8BFY0YN86", "com.vodafone.viewer", true);
+            Report.Log(ReportLevel.Info, "Application", "Run mobile app 'com.vodafone.viewer' on device 'Pixel 3XL'.", new RecordItemIndex(0));
+            Host.Local.RunMobileApp("Pixel 3XL", "com.vodafone.viewer", true);
             Delay.Milliseconds(3500);
             
         }
